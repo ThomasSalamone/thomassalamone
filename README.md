@@ -4,6 +4,11 @@
 
 💡 Working with data excites me because it combines logic and problem solving — two skills I strive to improve every day.
 
+ Language spoken:
+
+![Language: Italian](https://img.shields.io/badge/Language-Italian-native?style=flat&logo=italia&logoColor=white&color=green)    
+![Language: English](https://img.shields.io/badge/Language-English-B2?style=flat&logo=united-kingdom&logoColor=white&color=blue)
+
 🛠️ Programming Languages:
 
 ![Code Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)  ![Code SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=mysql&logoColor=blue)
