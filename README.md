@@ -5,7 +5,7 @@
 💡 Working with data excites me because it combines logic and problem solving — two skills I strive to improve every day.
 
 🛠️ Programming Languages:
-![Code Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)  ![Code SQL](https://img.shields.io/badge/Code-SQL-lightgrey?style=flat&logo=mysql&logoColor=blue)
+![Code Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)  ![Code SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=mysql&logoColor=blue)
 
 📌 I’m especially interested in:
 
