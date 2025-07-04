@@ -6,8 +6,12 @@
 
  Language spoken:
  
-<img src="https://flagcdn.com/w40/it.png" width="20"/> ![Italian](https://img.shields.io/badge/Language-Italian-red?style=flat)
-<img src="https://flagcdn.com/w40/gb.png" width="20"/> ![English B2](https://img.shields.io/badge/Language-English--B2-blue?style=flat)
+### 🌍 Languages
+
+| Flag | Language | Level |
+|------|----------|-------|
+| ![IT](https://flagcdn.com/w40/it.png) | Italian | Native |
+| ![GB](https://flagcdn.com/w40/gb.png) | English | B2 |
 
 🛠️ Programming Languages:
 
