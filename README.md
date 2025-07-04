@@ -2,8 +2,6 @@
 
 🎓 I’m a first-year student at ITS Tech Talent Factory, currently enrolled in the Big Data Engineer & Solution Architect program. My goal is to become a Data Engineer.
 
-💡 Working with data excites me because it combines logic and problem solving — two skills I strive to improve every day.z
-
 🌍 Languages
 
 | Flag | Language | Level |
