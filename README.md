@@ -14,3 +14,8 @@
 🛠️ Programming Languages:
 
 ![Code Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)  ![Code SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=mysql&logoColor=blue)
+
+### 🧰 Tools & Environments
+
+![Jupyter](https://img.shields.io/badge/Tool-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
